@@ -1,7 +1,7 @@
 # Blog-Creator-API
 This is a blog creation app where user can register and make a blog and others can visit that blog also uses allows user to upload images
 
-### tools used
+## tools used
 
 - FastAPI
 - JWT
@@ -12,42 +12,42 @@ This is a blog creation app where user can register and make a blog and others c
 - Pydantic
 - Postman
 
-#### other tools
+## other tools
 
 - FileUpload
 - BSON
 - Serialization
 
-### Roles
+## Roles
 
 - Blog Owner
 - Visitor
 
-#### Blog owner
+### Blog owner
 
-##### Authentication
+#### Authentication
 
 user has the ability to create an account and login and logout
 
-##### Make a post
+#### Make a post
 
 user can add a post to their blog user adds a title a pargraph description and an image to the post which will be shown 
 
-##### Preview
+#### Preview
 
 user can Preview all the Posts that he makes can preview one post as well
 
-##### update and Delete Post
+#### update and Delete Post
 
 user can update and delete the post that they have on their blog
 
-#### Visitor
+### Visitor
 
-##### View all
+#### View all
 
 visitor can view all posts that the owner of that blog has made 
 
-##### View one
+#### View one
 
 visitor can view one post at a time 
 
