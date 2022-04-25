@@ -25,13 +25,11 @@ This is a blog creation app where user can register and make a blog and others c
 
 #### Blog owner
 
-##### features 
-
-###### Authentication
+##### Authentication
 
 user has the ability to create an account and login and logout
 
-###### Make a post
+##### Make a post
 
 user can add a post to their blog user adds a title a pargraph description and an image to the post which will be shown 
 
@@ -44,6 +42,16 @@ user can Preview all the Posts that he makes can preview one post as well
 user can update and delete the post that they have on their blog
 
 #### Visitor
+
+##### View all
+
+visitor can view all posts that the owner of that blog has made 
+
+##### View one
+
+visitor can view one post at a time 
+
+
 
 
 
